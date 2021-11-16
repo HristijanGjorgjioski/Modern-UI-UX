@@ -1,8 +1,8 @@
 import React from 'react'
 
-import './cta.css'
+import './whatGPT3.css'
 
-const Cta = () => {
+const WhatGPT3 = () => {
     return (
         <div>
             
@@ -10,4 +10,4 @@ const Cta = () => {
     )
 }
 
-export default Cta
+export default WhatGPT3
