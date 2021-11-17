@@ -22,9 +22,15 @@ const Header = () => {
                 </div>
             </div>
 
+<<<<<<< HEAD
             <div className="gpt3__header-image">
                 <img src={ai} alt="ai" />
             </div>
+=======
+            {/* <div className="gpt3__header-image">
+                <img src={ai} alt="ai" />
+            </div> */}
+>>>>>>> d241cbd928d14d262e8a83548b0259b7c06b3e6f
         </div>
     )
 }
